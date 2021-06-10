@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/android/shuttle_bus_signin/MainActivity.java
+ com.android.shuttle_bus_signin.MainActivity
+com/android/shuttle_bus_signin/BuildConfig.java
+ com.android.shuttle_bus_signin.BuildConfig
